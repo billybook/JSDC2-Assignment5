@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+#counter {
+    font-size: 2em;
+}
+.tooHigh {
+    color:red;
+}
+.tooLow {
+    color:blue;
+}
+
+#buttons button {
+    font-size: 1.25em;
+    font-weight: bold;
+}
